@@ -1,0 +1,10 @@
+.btn-custom-black {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  border: 1px solid #000; /* Black border */
+}
+
+.btn-custom-black:hover {
+  background-color: #333; /* Slightly lighter black on hover */
+  border-color: #333; /* Match border color on hover */
+}

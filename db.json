@@ -1,0 +1,49 @@
+{
+  "user": {
+    "id": "23423423",
+    "avatar_id": "453443",
+    "first_name": "marcin",
+    "last_name": "nowak",
+    "email": "dnsdlkfd@gmail.com",
+    "phone_number": "32435",
+    "password": "khdgdlghfglh",
+    "activites": [
+      {
+        "id": "4534345",
+        "title": "Horse riding",
+        "description": "djfgfddfihgdifghfdg",
+        "email": "mock@mock.com",
+        "phone_number": "231231231",
+        "is_active": false,
+        "is_payed": true,
+        "created_at": "3453453454353",
+        "modified_at": "2342334234324"
+      },
+      {
+        "id": "4534345",
+        "title": "Powerlifting",
+        "description": "djfgfddfihgdifghfdg",
+        "email": "mock@mock.com",
+        "phone_number": "231231231",
+        "is_active": false,
+        "is_payed": true,
+        "created_at": "3453453454353",
+        "modified_at": "2342334234324"
+      },
+      {
+        "id": "4534345",
+        "title": "Balet",
+        "description": "djfgfddfihgdifghfdg",
+        "email": "mock@mock.com",
+        "phone_number": "231231231",
+        "is_active": false,
+        "is_payed": true,
+        "created_at": "3453453454353",
+        "modified_at": "2342334234324"
+      }
+    ],
+    "is_verified": true,
+    "created_at": "453453534534534345",
+    "modified_at": "24343424234242424"
+  }
+}
